@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-06ab33523e8071d9da1c9425e7f230c91188c9be.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-d796e3c230cf9921469097e60beb9f18eb178310.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-676bceb5423a31e73858d3643ba39721c0d84056.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.bowyer.app\fabtransitionlayout\0.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ff7d8405ec14cf1d58cb4773cdaa79b65699f6cc">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-240fc8653a3aee6cc78627188c5487fcb4b363b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-d78e2c3a48b4b03187cbcba4c710a7ce37ee23d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ec15c42d9c3a917b4e31c03731342d42db481e33">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-f1ca9334638dd0a9d324ef6cee4b6da25d367c57.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-380a5161118c6f265a31d5ff827537f43559b1fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2-00d70f924e4177e7f7d0f0dd75a04e0782212efe.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-c18245964927be0de5153e296e9dfe59db62900f.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\picasso-2.3.2-5ad6ecebde129938a79fe72e0a2d586f0cee4303.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-90d3d769709b060c8dab59cf981eac59ed8bb781.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-1ff4300938ac477dd7e8e2204f3a519587ae3a9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-355b5a8f220a8b8368a0541d0fa30963833d4d1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-e889242bcdef43b68772de4cc046aef880c564a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\library-2.4.0-a6c59e9bc26de5254b0114b9cb18784ba4c2c8dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\gson-2.3.1-4d26b6fa3d1faabdfcaaf793ff0d2dc331d51a47.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-f78168640cb8fbe67000430293ea8a09721eaf23.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-0b79141fee011053b05a1327fda3c0addce4b43c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-4fc0b06f1b99468f4cdc561a435a8c6e5d42eb1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-f2ca0472a0c7203d26b78c3b17d8e6e65b801c3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\1.6.0\375c2206eb7e52976955d0f8737be5e0ec9cf667\okhttp-urlconnection-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="375c2206eb7e52976955d0f8737be5e0ec9cf667">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-1.6.0-9ea733bc97b38eb5b37af68a50271021cb7350b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.pavelsikun\material-seekbar-preference\0.12.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d185a6799552684d6884959f52aec029bdb55963">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-4885f6bab43dfd680c015bd848ac1a4d48ccfa14.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-49229a7847588773fb3edc6a146be07fb046cd55.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\jp.mixi\AndroidDeviceCompatibility\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="78c33f02e92c37240975fcf8998a6a94d8f0e5da">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-8ec07b712177dfa1c63f20c3976b1c79083fda8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-44aeceb6f2cd9ef59f24b05da3031d9c959854f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-ffb8354b07c477f91483b8a279c9d19b812fa977.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e47268e271ff279aca3dfdd62587b8c90b6da14">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-0572572cc4ccc53023554b8ffaf59f494bd3125b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-8408fe3de6cb54528ce7d4cd8b9014ba2af45c48.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-58f581b4667a6efe49937f0b84588b3b343ad277.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-883da31fbfd7ac25e8e624c103346829ed8fea00.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-8bb692ade8af62fa700702e54858a73252ce14ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-d41ea8dcdd8ec929ed73b5acc815a654dcbaa702.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\okio-1.6.0-d0b7293531e1e3649e871d1144671a1c19d6db6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-d9a881dc8e84f1bb256c14de49477a2e4861515c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-85f8eb506e2ce081c28301e3d61459f6920b3516.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-29df9989cd9563694dd468ad84faebb7387af4a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-0e6fc8c39ad64786ebf25bbcf339f317b6621dec.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-45eab790acf3fdcb6f6f6b986384629c7faceb15.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.minimize.library\seekbar-compat\0.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c74ad0aeb6cb99f660bea8eb2a558fbc7b8401ad">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-713dfc6c4a437c90405406a368b968a4c409633e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-88c4f3c6fd5c751931a2ff05f2249800a0ca6bbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-383b0f33e4abc4d141b3d3ee72213a7f2cd7688b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-e65ed29794db913c225d667d117cad0b193e13cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-107465fd065a7e51cdf4c2007a4ccc3470d5ac0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-14fd83a03327b0ecbcd3402cc5c833ba2e065de4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-geocoder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d2acfbe514def423c230d346e79d7698bbdd02f1">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-3f0c0f3f1c0f9e5b06d136650c32561d3917efec.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\3.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f92632a598d60caa754b189cf542f2491d6d8104">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-dc695bc496a4aec23fe200634b85ee475ec58e8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-664d6e3cf2ea458441dfa5a106d65bfcb3aceb2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2-5f986167458e19be0bf012cfa11e4b47e7fbc537.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-c6df932a50f49204718753110327099aea21a059.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\classes-6624b0aa61e6308e6449c9dc53115ab277e83a58.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\.gradle\caches\modules-2\files-2.1\com.mapzen.android\lost\1.0.1\5f807d0be6ca894f6ae0007e884099793b2c8633\lost-1.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5f807d0be6ca894f6ae0007e884099793b2c8633">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Hidden_History\app\build\intermediates\pre-dexed\debug\lost-1.0.1-0b1d63880495e65c6e446ee3353ca1e059c067d1.jar" />
+    </item>
+
+</items>

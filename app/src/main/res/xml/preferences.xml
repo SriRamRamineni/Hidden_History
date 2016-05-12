@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sample="http://schemas.android.com/apk/res-auto">
+    <ListPreference
+        android:key="Mode_key"
+        android:title="Auto/Manual Mode"
+        android:summary="Define what happens when near to a LandScape"
+        android:entries="@array/mode"
+        android:entryValues="@array/mode_values"
+        android:defaultValue="1"
+        />
+    <com.pavelsikun.seekbarpreference.SeekBarPreference
+        android:key="distance_key"
+        android:title=" Notification Radius"
+        android:summary="Radius around each Location within user wants to be notified"
+        android:enabled="true"
+        android:defaultValue="500"
+        sample:msbp_minValue="250"
+        sample:msbp_maxValue="10000"
+        sample:msbp_interval="100"
+        sample:msbp_measurementUnit="Meters"/>
+    <MultiSelectListPreference
+        android:key="Category"
+        android:title="LANDSCAPE CATEGORY"
+        android:id="@+id/multi"
+        android:summary="Types of Landscapes user likes to visit"
+        android:entries="@array/settings_category"
+        android:entryValues="@array/category_values"
+        android:defaultValue="@array/category_values"
+        />
+</PreferenceScreen>

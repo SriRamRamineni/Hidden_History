@@ -1,0 +1,11 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment"
+    android:name="com.example.sriramramineni.routing_sample.ImageviewFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id= "@+id/old"
+        android:scaleType="fitCenter"/>
+</RelativeLayout>

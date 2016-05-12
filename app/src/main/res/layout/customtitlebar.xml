@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shapebutton"
+    android:src="#616161">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:text="You are near to the following Landscapes"
+    android:textStyle="bold"
+    android:layout_weight="1"
+    android:textSize="18sp"
+    android:background="#616161"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:text="Would you like to visit now ?"
+        android:gravity="center_horizontal"
+        android:layout_weight="1"
+        android:textStyle="normal"
+        android:background="#616161"
+        android:textSize="15sp"/>
+</LinearLayout>

@@ -1,0 +1,152 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c1c1c1"
+    android:id="@+id/main" tools:context=".MainActivity">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:background="#c1c1c1"
+                android:layout_marginBottom="5dp"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="5dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:textColor="#000000"
+                        android:text="TAGS:"/>
+                    <ImageView
+                        android:layout_width="5dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_gravity="left"
+                        android:src="@color/historic"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="HISTORIC"
+                        android:layout_marginLeft="2dp"
+                        android:textColor="#000000"
+                        android:layout_weight="2" />
+                    <ImageView
+                        android:layout_width="5dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_gravity="left"
+                        android:src="@color/cultural"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="CULTURAL"
+                        android:layout_marginLeft="2dp"
+                        android:textColor="#000000"
+                        android:layout_weight="2" />
+                    <ImageView
+                        android:layout_width="5dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_gravity="left"
+                        android:src="@color/scenic"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="SCENIC"
+                        android:layout_marginLeft="2dp"
+                        android:textColor="#000000"
+                        android:layout_weight="2" />
+                </LinearLayout>
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id = "@+id/cv"
+                android:elevation="10dp"
+                card_view:cardCornerRadius="5dp">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/ic_ram"
+                    android:src ="@drawable/shapebutton"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text = "Route"
+                    android:textColor="#000000"
+                    android:layout_marginLeft="10dp"
+                    android:layout_gravity="bottom|left"
+                    android:layout_marginTop="45dp"
+                    android:id="@+id/ind"
+                    android:textSize="32sp"
+                    />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id = "@+id/cv2"
+                android:layout_weight="1"
+                android:elevation="10dp"
+                android:layout_below = "@id/cv"
+                android:layout_marginTop = "10dp"
+                card_view:cardCornerRadius="5dp">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/ic_sri"
+                    android:src= "@drawable/shapebutton"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text = "Explore"
+                    android:textColor="#000000"
+                    android:layout_marginLeft="10dp"
+                    android:layout_gravity="bottom|left"
+                    android:layout_marginTop="45dp"
+                    android:id="@+id/ind2"
+                    android:textSize="32sp"
+                    />
+            </android.support.v7.widget.CardView>
+                <android.support.v7.widget.CardView
+                    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id = "@+id/cv3"
+                    card_view:elevation="10dp"
+                    android:layout_below = "@id/cv2"
+                    android:layout_marginTop = "10dp"
+                    card_view:cardCornerRadius="5dp">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="match_parent"
+                        android:src= "@drawable/shapebutton"
+                        android:background="@drawable/ic_nen"
+                        android:id="@+id/imagec"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text = "Tour"
+                        android:textColor="#000000"
+                        android:layout_marginLeft="10dp"
+                        android:layout_gravity="bottom|left"
+                        android:layout_marginTop="45dp"
+                        android:id="@+id/ind3"
+                        android:textSize="32sp"
+                        />
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+</RelativeLayout>
