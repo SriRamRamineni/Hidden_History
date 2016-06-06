@@ -111,7 +111,6 @@ public class MainActivity extends Activity {
                             startActivity(new Intent(WifiManager.ACTION_PICK_WIFI_NETWORK));
                         }
                     }).show();
-
         }
     }
 
